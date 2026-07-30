@@ -49,7 +49,7 @@ the front.
 What actually interests me is the seam where those systems meet machine learning:
 forecasting engines, LLM orchestration, and models that have to survive contact
 with real users rather than stay in a notebook. (Degrees and certifications are
-under [Background](#background) below.)
+under [Background](#-background) below.)
 
 ---
 
