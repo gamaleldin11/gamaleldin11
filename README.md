@@ -26,6 +26,14 @@
 </a>
 -->
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=5EEAD4&background=0A0E17&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+.NET+Engineer;Building+FinSight,+an+AI+CFO+for+small+businesses;ASP.NET+Core+%2B+Angular+%2B+LLM+orchestration;Open+to+opportunities">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=0D9488&background=F7F9FC&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+.NET+Engineer;Building+FinSight,+an+AI+CFO+for+small+businesses;ASP.NET+Core+%2B+Angular+%2B+LLM+orchestration;Open+to+opportunities">
+  <img alt="Full-Stack .NET Engineer — Building FinSight, an AI CFO for small businesses — ASP.NET Core + Angular + LLM orchestration — Open to opportunities" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=5EEAD4&background=0A0E17&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+.NET+Engineer;Building+FinSight,+an+AI+CFO+for+small+businesses;ASP.NET+Core+%2B+Angular+%2B+LLM+orchestration;Open+to+opportunities">
+</picture>
+
 </div>
 
 ---
@@ -224,6 +232,40 @@ copy changes never touch layout code.
 Outside the CV: six years volunteering with **Resala Charity Organization**,
 teaching English and running IT-literacy classes for people who had never touched
 a computer. Arabic native, English fluent.
+
+---
+
+## Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gamaleldin11&show_icons=true&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&icon_color=5EEAD4&text_color=9DB0CF&border_color=22304A">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gamaleldin11&show_icons=true&hide_border=true&bg_color=F7F9FC&title_color=0D9488&icon_color=0D9488&text_color=4A5B73&border_color=D7E0EC">
+  <img alt="gamaleldin11's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gamaleldin11&show_icons=true&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&icon_color=5EEAD4&text_color=9DB0CF&border_color=22304A" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaleldin11&layout=compact&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&text_color=9DB0CF&border_color=22304A">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaleldin11&layout=compact&hide_border=true&bg_color=F7F9FC&title_color=0D9488&text_color=4A5B73&border_color=D7E0EC">
+  <img alt="gamaleldin11's most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaleldin11&layout=compact&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&text_color=9DB0CF&border_color=22304A" width="49%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gamaleldin11&hide_border=true&background=0A0E17&stroke=22304A&ring=5EEAD4&fire=5EEAD4&currStreakNum=E8EEFB&sideNums=E8EEFB&currStreakLabel=5EEAD4&sideLabels=9DB0CF&dates=5C6B82">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gamaleldin11&hide_border=true&background=F7F9FC&stroke=D7E0EC&ring=0D9488&fire=0D9488&currStreakNum=101828&sideNums=101828&currStreakLabel=0D9488&sideLabels=4A5B73&dates=77879E">
+  <img alt="gamaleldin11's contribution streak" src="https://streak-stats.demolab.com/?user=gamaleldin11&hide_border=true&background=0A0E17&stroke=22304A&ring=5EEAD4&fire=5EEAD4&currStreakNum=E8EEFB&sideNums=E8EEFB&currStreakLabel=5EEAD4&sideLabels=9DB0CF&dates=5C6B82" width="70%">
+</picture>
+
+<!-- Regenerated daily by .github/workflows/snake.yml onto the `output`
+     branch — see that workflow for how the snake and its theming are
+     produced. The two images below 404 until that workflow has run once. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamaleldin11/gamaleldin11/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamaleldin11/gamaleldin11/output/snake.svg">
+  <img alt="A snake animation eating the squares of gamaleldin11's GitHub contribution graph" src="https://raw.githubusercontent.com/gamaleldin11/gamaleldin11/output/snake-dark.svg" width="100%">
+</picture>
+
+</div>
 
 ---
 
