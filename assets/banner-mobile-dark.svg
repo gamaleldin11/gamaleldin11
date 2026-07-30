@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="560" viewBox="0 0 640 560" role="img" aria-label="Gamaleldin Salem, Full-Stack .NET Engineer. AI-integrated financial systems on ASP.NET Core and Angular. Capabilities: backend, frontend, data, AI and ML.">
+  <!--
+    Compact companion to banner-dark.svg for narrow viewports (see the
+    (max-width: 600px) <source> in the README). A near-square canvas with
+    larger relative type reads far better on a phone than the wide desktop
+    banner scaled down to the same physical width would.
+  -->
+  <defs>
+    <pattern id="gridM" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 L0 0 0 48" fill="none" stroke="#22304a" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fadeM" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e17" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a0e17" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="glowM" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.10"/>
+      <stop offset="60%" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="640" height="560" fill="#0a0e17"/>
+  <rect width="640" height="560" fill="url(#gridM)" opacity="0.55"/>
+  <rect width="640" height="560" fill="url(#fadeM)"/>
+
+  <rect x="20" y="24" width="600" height="512" rx="14" fill="#121a2a" stroke="#22304a" stroke-width="1"/>
+  <rect x="20" y="24" width="600" height="512" rx="14" fill="url(#glowM)">
+    <animate attributeName="opacity" values="1;0.55;1" dur="5s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </rect>
+
+  <path d="M20 38 a14 14 0 0 1 14 -14 h572 a14 14 0 0 1 14 14 v28 h-600 z" fill="#172033"/>
+  <line x1="20" y1="66" x2="620" y2="66" stroke="#22304a" stroke-width="1"/>
+  <circle cx="46" cy="45" r="6" fill="#ff5f57"/>
+  <circle cx="66" cy="45" r="6" fill="#febc2e"/>
+  <circle cx="86" cy="45" r="6" fill="#28c840"/>
+  <text x="112" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6b7d9c">whoami.sh</text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.35s" fill="freeze"/>
+    <text x="56" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14">
+      <tspan fill="#5eead4">$</tspan><tspan fill="#9db0cf" dx="8">whoami</tspan>
+    </text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.35s" fill="freeze"/>
+    <text x="56" y="134" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#5c6b82">gamaleldin11</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.85s" dur="0.5s" fill="freeze"/>
+    <text x="56" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#e8eefb" letter-spacing="-1">Gamaleldin Salem</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.35s" fill="freeze"/>
+    <text x="56" y="234" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#5eead4">Full-Stack .NET Engineer</text>
+  </g>
+  <rect x="332" y="218" width="10" height="20" fill="#5eead4" opacity="0">
+    <animate attributeName="opacity" begin="1.6s" dur="1s" values="1;0;1;1" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.75s" dur="0.4s" fill="freeze"/>
+    <text x="56" y="284" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#9db0cf">AI-integrated financial systems on ASP.NET + Angular</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.15s" dur="0.3s" fill="freeze"/>
+    <rect x="56" y="316" width="126" height="30" rx="6" fill="none" stroke="#33456a"/>
+    <circle cx="72" cy="331" r="3.5" fill="#9db0cf"/>
+    <text x="84" y="336" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9db0cf">Giza, Egypt</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.25s" dur="0.3s" fill="freeze"/>
+    <rect x="196" y="316" width="84" height="30" rx="6" fill="none" stroke="#33456a"/>
+    <circle cx="212" cy="331" r="3.5" fill="#9db0cf"/>
+    <text x="224" y="336" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9db0cf">BSc ×2</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.3s" fill="freeze"/>
+    <rect x="294" y="316" width="212" height="30" rx="6" fill="#0f2b28" stroke="#2f6f68"/>
+    <circle cx="310" cy="331" r="3.5" fill="#5eead4">
+      <animate attributeName="r" begin="2.65s" dur="1.8s" values="3.5;4.6;3.5" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <animate attributeName="opacity" begin="2.65s" dur="1.8s" values="1;0.45;1" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    </circle>
+    <text x="322" y="336" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#5eead4">Open to opportunities</text>
+  </g>
+
+  <!-- capability grid -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.45s" fill="freeze"/>
+    <line x1="56" y1="372" x2="584" y2="372" stroke="#22304a" stroke-width="1"/>
+
+    <g transform="translate(56,392)">
+      <rect width="28" height="28" rx="6" fill="#0f1a2c" stroke="#22304a"/>
+      <g transform="translate(4,4)" stroke="#5eead4">
+        <rect x="6" y="6" width="12" height="12" rx="1.5" fill="none" stroke-width="1.6"/>
+        <rect x="9.5" y="9.5" width="5" height="5" rx="0.5" fill="none" stroke-width="1.6"/>
+        <line x1="12" y1="1.5" x2="12" y2="4" stroke-width="1.6"/>
+        <line x1="12" y1="20" x2="12" y2="22.5" stroke-width="1.6"/>
+        <line x1="1.5" y1="12" x2="4" y2="12" stroke-width="1.6"/>
+        <line x1="20" y1="12" x2="22.5" y2="12" stroke-width="1.6"/>
+      </g>
+      <text x="40" y="19" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#9db0cf">Backend</text>
+    </g>
+
+    <g transform="translate(320,392)">
+      <rect width="28" height="28" rx="6" fill="#0f1a2c" stroke="#22304a"/>
+      <g transform="translate(4,4)" stroke="#5eead4" fill="none" stroke-width="1.6">
+        <polyline points="8,6 3,12 8,18"/>
+        <polyline points="16,6 21,12 16,18"/>
+      </g>
+      <text x="40" y="19" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#9db0cf">Frontend</text>
+    </g>
+
+    <g transform="translate(56,454)">
+      <rect width="28" height="28" rx="6" fill="#0f1a2c" stroke="#22304a"/>
+      <g transform="translate(4,4)" stroke="#5eead4" fill="none" stroke-width="1.6">
+        <ellipse cx="12" cy="5.5" rx="7" ry="2.5"/>
+        <path d="M5 5.5v13c0 1.4 3.1 2.5 7 2.5s7-1.1 7-2.5v-13"/>
+        <path d="M5 12c0 1.4 3.1 2.5 7 2.5s7-1.1 7-2.5"/>
+      </g>
+      <text x="40" y="19" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#9db0cf">Data</text>
+    </g>
+
+    <g transform="translate(320,454)">
+      <rect width="28" height="28" rx="6" fill="#0f1a2c" stroke="#22304a"/>
+      <g transform="translate(4,4)" fill="#5eead4">
+        <path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8L12 3z"/>
+      </g>
+      <text x="40" y="19" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#9db0cf">AI / ML</text>
+    </g>
+  </g>
+</svg>

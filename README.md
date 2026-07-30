@@ -1,9 +1,11 @@
 <div align="center">
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Gamaleldin Salem — Full-Stack .NET Engineer. I build AI-integrated financial systems: ASP.NET Core and Angular on the outside, forecasting engines and LLM orchestration underneath. Giza, Egypt. BSc ×2 Computer Systems Engineering. Open to opportunities." src="assets/banner-dark.svg" width="100%">
+  <img alt="Gamaleldin Salem — Full-Stack .NET Engineer. I build AI-integrated financial systems: ASP.NET Core and Angular on the outside, forecasting engines and LLM orchestration underneath. Giza, Egypt. BSc ×2 Computer Systems Engineering. Open to opportunities. Capabilities: backend, frontend, data, AI and ML." src="assets/banner-dark.svg" width="100%">
 </picture>
 
 <br><br>
@@ -38,7 +40,7 @@
 
 ---
 
-## Hello 
+## <img src="assets/icons/terminal.svg" width="20" height="20" align="absmiddle" alt=""> Hello
 
 I'm a software engineer working across the full **.NET** stack — C#, ASP.NET Core,
 Entity Framework Core and SQL Server on the back end, Angular and TypeScript on
@@ -46,14 +48,12 @@ the front.
 
 What actually interests me is the seam where those systems meet machine learning:
 forecasting engines, LLM orchestration, and models that have to survive contact
-with real users rather than stay in a notebook.
-
-I hold **two BSc degrees in Computer Systems Engineering** — University of
-Greenwich and MSA University — and completed the **ITI intensive .NET Track**.
+with real users rather than stay in a notebook. (Degrees and certifications are
+under [Background](#background) below.)
 
 ---
 
-## What I'm building
+## <img src="assets/icons/rocket.svg" width="20" height="20" align="absmiddle" alt=""> What I'm building
 
 > ### FinSight — an AI virtual CFO for small businesses
 >
@@ -82,13 +82,21 @@ Greenwich and MSA University — and completed the **ITI intensive .NET Track**.
 - Health-check endpoints, a global exception handler, environment-aware config,
   and both unit and integration test projects
 
-<sub>`C#` · `ASP.NET Core` · `EF Core` · `SQL Server` · `Angular 17` · `SignalR` · `Hangfire` · `TimeGPT` · `LangFlow`</sub>
+![C#](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=csharp&logoColor=5eead4 "C#")
+![ASP.NET Core](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=dotnet&logoColor=5eead4 "ASP.NET Core")
+![EF Core](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=nuget&logoColor=5eead4 "EF Core")
+![SQL Server](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=microsoftsqlserver&logoColor=5eead4 "SQL Server")
+![Angular 17](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=angular&logoColor=5eead4 "Angular 17")
+![SignalR](https://img.shields.io/badge/SignalR-0a0e17?style=flat-square&logoColor=5eead4)
+![Hangfire](https://img.shields.io/badge/Hangfire-0a0e17?style=flat-square&logoColor=5eead4)
+![TimeGPT](https://img.shields.io/badge/TimeGPT-0a0e17?style=flat-square&logoColor=5eead4)
+![LangFlow](https://img.shields.io/badge/LangFlow-0a0e17?style=flat-square&logoColor=5eead4)
 
 [**→ Source**](https://github.com/gamaleldin11/FinSight_G)
 
 ---
 
-## Selected work
+## <img src="assets/icons/layers.svg" width="20" height="20" align="absmiddle" alt=""> Selected work
 
 <details>
 <summary><b>Speech Emotion Recognition</b> — transformer-based emotion classification from raw audio &nbsp;·&nbsp; <code>93% accuracy</code></summary>
@@ -110,7 +118,11 @@ a transcript.
   microphone capture, SQLite persistence — not a notebook
 - **93% accuracy**, validated with a confusion matrix across the emotion classes
 
-<sub>`Python` · `PyTorch` · `HuBERT` · `Hugging Face` · `SQLite`</sub>
+![Python](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=python&logoColor=5eead4 "Python")
+![PyTorch](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=pytorch&logoColor=5eead4 "PyTorch")
+![HuBERT](https://img.shields.io/badge/HuBERT-0a0e17?style=flat-square&logoColor=5eead4)
+![Hugging Face](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=huggingface&logoColor=5eead4 "Hugging Face")
+![SQLite](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=sqlite&logoColor=5eead4 "SQLite")
 
 </details>
 
@@ -131,7 +143,10 @@ a team of five.
 - PayPal checkout flow and a built-in chatbot assistant with typing indicators
   and message threading
 
-<sub>`Angular` · `TypeScript` · `RxJS` · `Angular Material`</sub>
+![Angular](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=angular&logoColor=5eead4)
+![TypeScript](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=typescript&logoColor=5eead4)
+![RxJS](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=reactivex&logoColor=5eead4)
+![Angular Material](https://img.shields.io/badge/Angular_Material-0a0e17?style=flat-square&logoColor=5eead4)
 
 </details>
 
@@ -150,7 +165,11 @@ matter in production.
 - Registration and login on ASP.NET Identity with view models and server-side
   validation, plus a second application demonstrating external OAuth login
 
-<sub>`C#` · `ASP.NET Core MVC` · `EF Core` · `ASP.NET Identity` · `Razor`</sub>
+![C#](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=csharp&logoColor=5eead4)
+![ASP.NET Core MVC](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=dotnet&logoColor=5eead4)
+![EF Core](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=nuget&logoColor=5eead4)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-0a0e17?style=flat-square&logoColor=5eead4)
+![Razor](https://img.shields.io/badge/Razor-0a0e17?style=flat-square&logoColor=5eead4)
 
 </details>
 
@@ -167,67 +186,73 @@ Arrows and space to navigate, `E` to edit in place, `R` to replay animations,
 `F` for fullscreen. Slide definitions are separated from editable content, so
 copy changes never touch layout code.
 
-<sub>`React` · `TypeScript` · `Vite` · `TanStack Router` · `Framer Motion`</sub>
+![React](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=react&logoColor=5eead4)
+![TypeScript](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=typescript&logoColor=5eead4)
+![Vite](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=vite&logoColor=5eead4)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-0a0e17?style=flat-square&logoColor=5eead4)
+![Framer Motion](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=framer&logoColor=5eead4)
 
 </details>
 
 ---
 
-## Stack
+## <img src="assets/icons/cpu.svg" width="20" height="20" align="absmiddle" alt=""> Stack
+
+<sub>Hover an icon for its name.</sub>
 
 **Backend**
-
-![C#](https://img.shields.io/badge/C%23-0a0e17?style=flat-square&logo=csharp&logoColor=5eead4)
-![.NET](https://img.shields.io/badge/.NET-0a0e17?style=flat-square&logo=dotnet&logoColor=5eead4)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0a0e17?style=flat-square&logo=dotnet&logoColor=5eead4)
-![EF Core](https://img.shields.io/badge/EF_Core-0a0e17?style=flat-square&logo=nuget&logoColor=5eead4)
-![SignalR](https://img.shields.io/badge/SignalR-0a0e17?style=flat-square&logo=dotnet&logoColor=5eead4)
-![Hangfire](https://img.shields.io/badge/Hangfire-0a0e17?style=flat-square&logo=dotnet&logoColor=5eead4)
+&nbsp;
+![C#](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=csharp&logoColor=5eead4 "C#")
+![.NET](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=dotnet&logoColor=5eead4 ".NET")
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0a0e17?style=flat-square&logoColor=5eead4)
+![EF Core](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=nuget&logoColor=5eead4 "EF Core")
+![SignalR](https://img.shields.io/badge/SignalR-0a0e17?style=flat-square&logoColor=5eead4)
+![Hangfire](https://img.shields.io/badge/Hangfire-0a0e17?style=flat-square&logoColor=5eead4)
 
 **Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-0a0e17?style=flat-square&logo=angular&logoColor=5eead4)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0e17?style=flat-square&logo=typescript&logoColor=5eead4)
-![RxJS](https://img.shields.io/badge/RxJS-0a0e17?style=flat-square&logo=reactivex&logoColor=5eead4)
-![React](https://img.shields.io/badge/React-0a0e17?style=flat-square&logo=react&logoColor=5eead4)
-![Chart.js](https://img.shields.io/badge/Chart.js-0a0e17?style=flat-square&logo=chartdotjs&logoColor=5eead4)
+&nbsp;
+![Angular](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=angular&logoColor=5eead4 "Angular")
+![TypeScript](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=typescript&logoColor=5eead4 "TypeScript")
+![RxJS](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=reactivex&logoColor=5eead4 "RxJS")
+![React](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=react&logoColor=5eead4 "React")
+![Chart.js](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=chartdotjs&logoColor=5eead4 "Chart.js")
 
 **Data**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-0a0e17?style=flat-square&logo=microsoftsqlserver&logoColor=5eead4)
-![T-SQL](https://img.shields.io/badge/T--SQL-0a0e17?style=flat-square&logo=microsoftsqlserver&logoColor=5eead4)
-![SQLite](https://img.shields.io/badge/SQLite-0a0e17?style=flat-square&logo=sqlite&logoColor=5eead4)
+&nbsp;
+![SQL Server](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=microsoftsqlserver&logoColor=5eead4 "SQL Server")
+![T-SQL](https://img.shields.io/badge/T--SQL-0a0e17?style=flat-square&logoColor=5eead4)
+![SQLite](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=sqlite&logoColor=5eead4 "SQLite")
 
 **AI / ML**
-
-![Python](https://img.shields.io/badge/Python-0a0e17?style=flat-square&logo=python&logoColor=5eead4)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0e17?style=flat-square&logo=pytorch&logoColor=5eead4)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0a0e17?style=flat-square&logo=huggingface&logoColor=5eead4)
-![HuBERT](https://img.shields.io/badge/HuBERT-0a0e17?style=flat-square&logo=pytorch&logoColor=5eead4)
-![Claude API](https://img.shields.io/badge/Claude_API-0a0e17?style=flat-square&logo=anthropic&logoColor=5eead4)
+&nbsp;
+![Python](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=python&logoColor=5eead4 "Python")
+![PyTorch](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=pytorch&logoColor=5eead4 "PyTorch")
+![Hugging Face](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=huggingface&logoColor=5eead4 "Hugging Face")
+![HuBERT](https://img.shields.io/badge/HuBERT-0a0e17?style=flat-square&logoColor=5eead4)
+![Claude API](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=anthropic&logoColor=5eead4 "Claude API")
 
 **Systems & tooling**
-
-![C++](https://img.shields.io/badge/C%2B%2B-0a0e17?style=flat-square&logo=cplusplus&logoColor=5eead4)
-![CUDA](https://img.shields.io/badge/CUDA-0a0e17?style=flat-square&logo=nvidia&logoColor=5eead4)
-![Linux](https://img.shields.io/badge/Linux-0a0e17?style=flat-square&logo=linux&logoColor=5eead4)
-![Git](https://img.shields.io/badge/Git-0a0e17?style=flat-square&logo=git&logoColor=5eead4)
-![Docker](https://img.shields.io/badge/Docker-0a0e17?style=flat-square&logo=docker&logoColor=5eead4)
-![Postman](https://img.shields.io/badge/Postman-0a0e17?style=flat-square&logo=postman&logoColor=5eead4)
-![Jira](https://img.shields.io/badge/Jira-0a0e17?style=flat-square&logo=jira&logoColor=5eead4)
+&nbsp;
+![C++](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=cplusplus&logoColor=5eead4 "C++")
+![CUDA](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=nvidia&logoColor=5eead4 "CUDA")
+![Linux](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=linux&logoColor=5eead4 "Linux")
+![Git](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=git&logoColor=5eead4 "Git")
+![Docker](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=docker&logoColor=5eead4 "Docker")
+![Postman](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=postman&logoColor=5eead4 "Postman")
+![Jira](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=jira&logoColor=5eead4 "Jira")
 
 ---
 
-## Background
+## <img src="assets/icons/cap.svg" width="20" height="20" align="absmiddle" alt=""> Background
 
-| | |
-|:--|:--|
-| **BSc (Hons) Computer Systems Engineering** | University of Greenwich — Second Class Honours, First Division |
-| **BSc Computer Systems Engineering** | MSA University — GPA 3.11, graduation project graded 4.0 |
-| **Intensive .NET Track** | Information Technology Institute (ITI) |
-| **Implementation Engineer** | Bishara — Kuwait |
-| **Networking & Cybersecurity** | SYSTEL Telecom × Digital Hub — 72 credit hours |
-| **HCIA-AI** | Huawei × ICT Talent Bank |
+| | | |
+|:--:|:--|:--|
+| <img src="assets/icons/cap.svg" width="18" height="18" alt="Education"> | **BSc (Hons) Computer Systems Engineering** | University of Greenwich — Second Class Honours, First Division |
+| <img src="assets/icons/cap.svg" width="18" height="18" alt="Education"> | **BSc Computer Systems Engineering** | MSA University — GPA 3.11, graduation project graded 4.0 |
+| <img src="assets/icons/badge-check.svg" width="18" height="18" alt="Certification"> | **Intensive .NET Track** | Information Technology Institute (ITI) |
+| <img src="assets/icons/briefcase.svg" width="18" height="18" alt="Experience"> | **Implementation Engineer** | Bishara — Kuwait |
+| <img src="assets/icons/badge-check.svg" width="18" height="18" alt="Certification"> | **Networking & Cybersecurity** | SYSTEL Telecom × Digital Hub — 72 credit hours |
+| <img src="assets/icons/badge-check.svg" width="18" height="18" alt="Certification"> | **HCIA-AI** | Huawei × ICT Talent Bank |
 
 Outside the CV: six years volunteering with **Resala Charity Organization**,
 teaching English and running IT-literacy classes for people who had never touched
@@ -235,7 +260,7 @@ a computer. Arabic native, English fluent.
 
 ---
 
-## Activity
+## <img src="assets/icons/pulse.svg" width="20" height="20" align="absmiddle" alt=""> Activity
 
 <div align="center">
 
@@ -271,7 +296,7 @@ a computer. Arabic native, English fluent.
 
 <div align="center">
 
-### Let's build something
+### <img src="assets/icons/mail.svg" width="20" height="20" align="absmiddle" alt=""> Let's build something
 
 The fastest way to reach me is email.
 
