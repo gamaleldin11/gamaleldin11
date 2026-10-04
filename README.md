@@ -123,7 +123,7 @@ for the agency's clients, after finishing the ITI intensive .NET track.
 - Fast-moving facts checked against primary sources, with sources at the end of
   every module
 - A strict build that fails on any broken cross-reference, checked in GitHub
-  Actions on every push and configured for Vercel
+  Actions on every push and deployed on Vercel
 
 ![Node.js](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=nodedotjs&logoColor=5eead4 "Node.js")
 ![JavaScript](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=javascript&logoColor=5eead4 "JavaScript")
@@ -132,7 +132,7 @@ for the agency's clients, after finishing the ITI intensive .NET track.
 ![GitHub Actions](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=githubactions&logoColor=5eead4 "GitHub Actions")
 ![Vercel](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=vercel&logoColor=5eead4 "Vercel")
 
-[**→ Source**](https://github.com/gamaleldin11/career-tracks)
+[**→ Live site**](https://career-tracks-amber.vercel.app/) &nbsp;·&nbsp; [**→ Source**](https://github.com/gamaleldin11/career-tracks)
 
 ---
 
