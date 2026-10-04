@@ -5,7 +5,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Gamaleldin Salem — Full-Stack .NET Engineer. I build AI-integrated financial systems: ASP.NET Core and Angular on the outside, forecasting engines and LLM orchestration underneath. Giza, Egypt. BSc ×2 Computer Systems Engineering. Open to opportunities. Capabilities: backend, frontend, data, AI and ML." src="assets/banner-dark.svg" width="100%">
+  <img alt="Gamaleldin Salem — Full-Stack .NET Engineer. I build AI-integrated financial systems: ASP.NET Core and Angular on the outside, forecasting engines and LLM orchestration underneath. Cairo, Egypt. BSc ×2 Computer Systems Engineering. Open to opportunities. Capabilities: backend, frontend, data, AI and ML." src="assets/banner-dark.svg" width="100%">
 </picture>
 
 <br><br>
@@ -31,9 +31,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=5EEAD4&background=0A0E17&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+.NET+Engineer;Building+FinSight,+an+AI+CFO+for+small+businesses;ASP.NET+Core+%2B+Angular+%2B+LLM+orchestration;Open+to+opportunities">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=0D9488&background=F7F9FC&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+.NET+Engineer;Building+FinSight,+an+AI+CFO+for+small+businesses;ASP.NET+Core+%2B+Angular+%2B+LLM+orchestration;Open+to+opportunities">
-  <img alt="Full-Stack .NET Engineer — Building FinSight, an AI CFO for small businesses — ASP.NET Core + Angular + LLM orchestration — Open to opportunities" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=5EEAD4&background=0A0E17&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+.NET+Engineer;Building+FinSight,+an+AI+CFO+for+small+businesses;ASP.NET+Core+%2B+Angular+%2B+LLM+orchestration;Open+to+opportunities">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=5EEAD4&background=0A0E17&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+.NET+Engineer;Building+FinSight,+an+AI+CFO+for+small+businesses;ASP.NET+Core+%2B+Angular+%2B+LLM+orchestration;Author+of+an+8-track+interview+handbook;Open+to+opportunities">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=0D9488&background=F7F9FC&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+.NET+Engineer;Building+FinSight,+an+AI+CFO+for+small+businesses;ASP.NET+Core+%2B+Angular+%2B+LLM+orchestration;Author+of+an+8-track+interview+handbook;Open+to+opportunities">
+  <img alt="Full-Stack .NET Engineer — Building FinSight, an AI CFO for small businesses — ASP.NET Core + Angular + LLM orchestration — Author of an 8-track interview handbook — Open to opportunities" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=5EEAD4&background=0A0E17&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+.NET+Engineer;Building+FinSight,+an+AI+CFO+for+small+businesses;ASP.NET+Core+%2B+Angular+%2B+LLM+orchestration;Author+of+an+8-track+interview+handbook;Open+to+opportunities">
 </picture>
 
 </div>
@@ -50,6 +50,9 @@ What actually interests me is the seam where those systems meet machine learning
 forecasting engines, LLM orchestration, and models that have to survive contact
 with real users rather than stay in a notebook. (Degrees and certifications are
 under [Background](#-background) below.)
+
+Right now I'm a **Tech Specialist intern at Beeviro**, building web applications
+for the agency's clients, after finishing the ITI intensive .NET track.
 
 ---
 
@@ -94,6 +97,43 @@ under [Background](#-background) below.)
 
 [**→ Source**](https://github.com/gamaleldin11/FinSight_G)
 
+<br>
+
+> ### Career Tracks Handbook — eight interview courses in one site
+>
+> A written course for every role I interview for: frontend, backend, full-stack,
+> data analyst, data scientist, data engineer, AI engineer and network &
+> connectivity engineer. Every track ends in a system-design stage and a self-test
+> whose wrong answers link back to the section to reread.
+
+| Modules | Tracks | Sections | Self-test questions |
+|:---:|:---:|:---:|:---:|
+| **116** | **8** | **1,491** | **444** |
+
+**What that involved**
+
+- A Node build that turns Markdown modules into one searchable page with a
+  per-track sidebar, an Entry / Mid / Senior level filter, a site-wide glossary,
+  progress tracking and dark and light themes
+- Importers that pull two existing courses (an Obsidian handbook and a hand-written
+  HTML bootcamp) into the same site without rewriting them, with maths rendered at
+  build time through KaTeX
+- A shared system-design series, from the request path and scaling a product
+  step by step to reliability patterns and design questions for each role
+- Fast-moving facts checked against primary sources, with sources at the end of
+  every module
+- A strict build that fails on any broken cross-reference, checked in GitHub
+  Actions on every push and configured for Vercel
+
+![Node.js](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=nodedotjs&logoColor=5eead4 "Node.js")
+![JavaScript](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=javascript&logoColor=5eead4 "JavaScript")
+![Markdown](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=markdown&logoColor=5eead4 "Markdown")
+![KaTeX](https://img.shields.io/badge/KaTeX-0a0e17?style=flat-square&logoColor=5eead4)
+![GitHub Actions](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=githubactions&logoColor=5eead4 "GitHub Actions")
+![Vercel](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=vercel&logoColor=5eead4 "Vercel")
+
+[**→ Source**](https://github.com/gamaleldin11/career-tracks)
+
 ---
 
 ## <img src="assets/icons/layers.svg" width="20" height="20" align="absmiddle" alt=""> Selected work
@@ -123,6 +163,29 @@ a transcript.
 ![HuBERT](https://img.shields.io/badge/HuBERT-0a0e17?style=flat-square&logoColor=5eead4)
 ![Hugging Face](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=huggingface&logoColor=5eead4 "Hugging Face")
 ![SQLite](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=sqlite&logoColor=5eead4 "SQLite")
+
+</details>
+
+<details>
+<summary><b>Online Course Store</b> — a teacher's own course shop with Egyptian payment methods</summary>
+
+<br>
+
+An online shop where an independent teacher sells their own courses, so they keep
+what they earn instead of paying a marketplace a share of every sale.
+
+- Customers browse, buy and start a course on any device
+- **Stripe, Paymob and Fawry** behind one payment interface, so Egyptian customers
+  can pay by card or in cash at a kiosk
+- Verified payment callbacks, so a course unlocks only once the money has
+  actually arrived
+
+![Next.js](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=nextdotjs&logoColor=5eead4 "Next.js")
+![React](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=react&logoColor=5eead4 "React")
+![TypeScript](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=typescript&logoColor=5eead4 "TypeScript")
+![PostgreSQL](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=postgresql&logoColor=5eead4 "PostgreSQL")
+![Tailwind CSS](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=tailwindcss&logoColor=5eead4 "Tailwind CSS")
+![Stripe](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=stripe&logoColor=5eead4 "Stripe")
 
 </details>
 
@@ -215,11 +278,14 @@ copy changes never touch layout code.
 ![TypeScript](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=typescript&logoColor=5eead4 "TypeScript")
 ![RxJS](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=reactivex&logoColor=5eead4 "RxJS")
 ![React](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=react&logoColor=5eead4 "React")
+![Next.js](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=nextdotjs&logoColor=5eead4 "Next.js")
+![Tailwind CSS](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=tailwindcss&logoColor=5eead4 "Tailwind CSS")
 ![Chart.js](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=chartdotjs&logoColor=5eead4 "Chart.js")
 
 **Data**
 &nbsp;
 ![SQL Server](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=microsoftsqlserver&logoColor=5eead4 "SQL Server")
+![PostgreSQL](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=postgresql&logoColor=5eead4 "PostgreSQL")
 ![T-SQL](https://img.shields.io/badge/T--SQL-0a0e17?style=flat-square&logoColor=5eead4)
 ![SQLite](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=sqlite&logoColor=5eead4 "SQLite")
 
@@ -238,6 +304,8 @@ copy changes never touch layout code.
 ![Linux](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=linux&logoColor=5eead4 "Linux")
 ![Git](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=git&logoColor=5eead4 "Git")
 ![Docker](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=docker&logoColor=5eead4 "Docker")
+![Microsoft Azure](https://img.shields.io/badge/Azure-0a0e17?style=flat-square&logoColor=5eead4)
+![GitHub Actions](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=githubactions&logoColor=5eead4 "GitHub Actions")
 ![Postman](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=postman&logoColor=5eead4 "Postman")
 ![Jira](https://img.shields.io/badge/-0a0e17?style=flat-square&logo=jira&logoColor=5eead4 "Jira")
 
@@ -247,10 +315,13 @@ copy changes never touch layout code.
 
 | | | |
 |:--:|:--|:--|
+| <img src="assets/icons/briefcase.svg" width="18" height="18" alt="Experience"> | **Tech Specialist Intern** | Beeviro, Egypt — Aug 2026 to now |
+| <img src="assets/icons/briefcase.svg" width="18" height="18" alt="Experience"> | **Software Development Trainee** | ITI intensive .NET track — Jan to Jul 2026 |
+| <img src="assets/icons/briefcase.svg" width="18" height="18" alt="Experience"> | **Implementation Engineer** | Bishara, Kuwait — supporting Farwaniya Hospital's system, 2025 |
 | <img src="assets/icons/cap.svg" width="18" height="18" alt="Education"> | **BSc (Hons) Computer Systems Engineering** | University of Greenwich — Second Class Honours, First Division |
 | <img src="assets/icons/cap.svg" width="18" height="18" alt="Education"> | **BSc Computer Systems Engineering** | MSA University — GPA 3.11, graduation project graded 4.0 |
-| <img src="assets/icons/badge-check.svg" width="18" height="18" alt="Certification"> | **Intensive .NET Track** | Information Technology Institute (ITI) |
-| <img src="assets/icons/briefcase.svg" width="18" height="18" alt="Experience"> | **Implementation Engineer** | Bishara — Kuwait |
+| <img src="assets/icons/badge-check.svg" width="18" height="18" alt="Certification"> | **Data Science and Machine Learning** | CLS Learning Solutions — Nov 2025 to Jan 2026 |
+| <img src="assets/icons/badge-check.svg" width="18" height="18" alt="Certification"> | **Digitera Technical Track** | ICareer — Sep 2026 |
 | <img src="assets/icons/badge-check.svg" width="18" height="18" alt="Certification"> | **Networking & Cybersecurity** | SYSTEL Telecom × Digital Hub — 72 credit hours |
 | <img src="assets/icons/badge-check.svg" width="18" height="18" alt="Certification"> | **HCIA-AI** | Huawei × ICT Talent Bank |
 
@@ -307,6 +378,6 @@ The fastest way to reach me is email.
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=5eead4&labelColor=0a0e17">
 </a>
 
-<sub>Giza, Egypt &nbsp;·&nbsp; open to full-stack and .NET engineering roles</sub>
+<sub>Cairo, Egypt &nbsp;·&nbsp; open to full-stack and .NET engineering roles</sub>
 
 </div>

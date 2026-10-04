@@ -65,7 +65,7 @@
     <animate attributeName="opacity" from="0" to="1" begin="2.15s" dur="0.3s" fill="freeze"/>
     <rect x="56" y="316" width="126" height="30" rx="6" fill="none" stroke="#b7c6da"/>
     <circle cx="72" cy="331" r="3.5" fill="#4a5b73"/>
-    <text x="84" y="336" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#4a5b73">Giza, Egypt</text>
+    <text x="84" y="336" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#4a5b73">Cairo, Egypt</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="2.25s" dur="0.3s" fill="freeze"/>
