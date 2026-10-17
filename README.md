@@ -10,7 +10,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/gamaleldin-salem-2046b1220/">
+<a href="https://www.linkedin.com/in/gamaleldin-salem">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=5eead4&labelColor=0a0e17">
 </a>
 <a href="mailto:ge.hazem@gmail.com">
@@ -374,7 +374,7 @@ The fastest way to reach me is email.
 <a href="mailto:ge.hazem@gmail.com">
   <img alt="ge.hazem@gmail.com" src="https://img.shields.io/badge/ge.hazem@gmail.com-0a0e17?style=for-the-badge&logo=gmail&logoColor=5eead4&labelColor=0a0e17">
 </a>
-<a href="https://www.linkedin.com/in/gamaleldin-salem-2046b1220/">
+<a href="https://www.linkedin.com/in/gamaleldin-salem">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=5eead4&labelColor=0a0e17">
 </a>
 
